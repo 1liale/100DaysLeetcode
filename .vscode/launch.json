@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch AllDisappearNumSol1",
+            "request": "launch",
+            "mainClass": "src.AllDisappearNumSol1",
+            "projectName": "100DaysLeetcode_bf6cc29e"
+        },
+        {
+            "type": "java",
+            "name": "Launch AllDisappearredNumsSol2",
+            "request": "launch",
+            "mainClass": "src.AllDisappearredNumsSol2",
+            "projectName": "100DaysLeetcode_bf6cc29e"
+        },
+        {
+            "type": "java",
+            "name": "Launch ThirdMaxSol1",
+            "request": "launch",
+            "mainClass": "src.ThirdMaxSol1",
+            "projectName": "100DaysLeetcode_bf6cc29e"
+        },
+        {
+            "type": "java",
+            "name": "Launch ThirdMaxSol2",
+            "request": "launch",
+            "mainClass": "src.ThirdMaxSol2",
+            "projectName": "100DaysLeetcode_bf6cc29e"
+        }
+    ]
+}

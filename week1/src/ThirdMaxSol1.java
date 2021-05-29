@@ -1,7 +1,8 @@
 package src;
 
+// Three pointers solution:
+// Time Complexity: O(n) Space Complexity: O(1)
 public class ThirdMaxSol1 {
-    // Time Complexity: O(n) Space Complexity: O(1)
     public static int thirdMax(int[] nums) {
         if (nums.length == 1) {
             return nums[0];
